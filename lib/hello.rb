@@ -4,5 +4,5 @@ def hello_t(names)
    end 
   new_var.upcase
 end
-hello_t(names)
+
 
