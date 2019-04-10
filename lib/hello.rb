@@ -1,8 +1,10 @@
 def hello_t(names)
-  new_var = names.each do |name|
-      puts "#{name}"
-   end 
-  new_var.upcase
+ i = 0
+
+  while i < array.length
+    i = i + 1
+  end
 end
+
 
 
