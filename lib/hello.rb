@@ -1,7 +1,8 @@
 def hello_t(names)
-    names.each do |name|
-      puts "#{name}"
+   new_var = names.each do |name|
+              puts "#{name}"
     end
+    new_var.upcase
 end
 # call your method here!
 
